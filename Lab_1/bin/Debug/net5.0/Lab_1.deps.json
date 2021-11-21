@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab_1/1.0.0": {
+        "dependencies": {
+          "Collections": "1.0.0",
+          "Data": "1.0.0"
+        },
+        "runtime": {
+          "Lab_1.dll": {}
+        }
+      },
+      "Collections/1.0.0": {
+        "runtime": {
+          "Collections.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "runtime": {
+          "Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
